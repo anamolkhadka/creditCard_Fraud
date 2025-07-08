@@ -50,7 +50,7 @@ jupyter lab notebook.ipynb
 ---
 
 ## 📊 Visuals
-Baseline and temporal comparison tables are available in `/reports/`.
+Baseline and temporal comparison tables are available in `/figures/`.
 
 ---
 
